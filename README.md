@@ -1,4 +1,1 @@
-
-
-
-<a href="http://www.github.com/af133"><img src="https://github-readme-streak-stats.herokuapp.com/?user=af133&stroke=64748b&background=1c1917&ring=444e59&fire=444e59&currStreakNum=64748b&currStreakLabel=444e59&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+<a href="http://www.github.com/af133"><img src="https://github-readme-streak-stats.herokuapp.com/?user=af133&stroke=f97316&background=1c1917&ring=f97316&fire=f97316&currStreakNum=f8fafc&currStreakLabel=94a3b8&sideNums=e2e8f0&sideLabels=94a3b8&dates=64748b&hide_border=true" /></a>
