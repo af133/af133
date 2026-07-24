@@ -8,6 +8,12 @@
   <img src="https://img.shields.io/github/stars/af133?label=Total%20Stars&style=for-the-badge&color=D4AC0D&logo=github" alt="Stars"/>
   <img src="https://img.shields.io/github/repo-size/af133/af133?label=Profile%20Views&style=for-the-badge&color=27AE60&logo=github" alt="Views"/>
 </p>
+<h3 align="center">Achievements & Trophies</h3>
+<p align="center">
+  <a href="https://github.com/af133">
+    <img src="https://github-profile-trophy.vercel.app/?username=af133&theme=tokyonight&margin-w=10" alt="af133 Trophies" />
+  </a>
+</p>
 
 <h3 align="center">GitHub Analytics</h3>
 <p align="center">
