@@ -3,8 +3,8 @@
 
 <h3 align="center">Achievements & Trophies</h3>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=af133&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=true" alt="af133 Trophies" />
+  <a href="https://github.com/af133">
+    <img src="https://mybadges.github.io/af133/badges.svg" alt="GitHub Badges" />
   </a>
 </p>
 
