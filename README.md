@@ -1,6 +1,13 @@
 <h1 align="center">About Me</h1>
 <p align="center">I'm a Fullstack Developer.</p>
 
+<h3 align="center">Achievements & Trophies</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=af133&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=true" alt="af133 Trophies" />
+  </a>
+</p>
+
 <h3 align="center">GitHub Analytics</h3>
 <p align="center">
   <a href="https://github.com/af133">
